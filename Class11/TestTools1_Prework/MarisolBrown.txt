@@ -1,0 +1,26 @@
+Version: 0.2
+My name is: Marisol Brown
+I like Git! True
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+(delete all trailing whitespace)
+ 
+
+
+ 
+
+ 
+
+
+     
